@@ -1,0 +1,14 @@
+{
+  "name": "hermes-completion-sound",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Hermes Desktop plugin: pick the turn-completion sound, a Hermes preset or your own audio file, with an optional night sound.",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "devDependencies": {
+    "esbuild": "0.28.1"
+  }
+}
